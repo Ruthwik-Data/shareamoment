@@ -1,6 +1,7 @@
 # 🥤 Share a Moment — Coca-Cola Inspired AI Chatbot
 
 > Open Happiness, One Chat at a Time
+> ![Share a Moment Preview](./shareamoment.png)
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991)](https://openai.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styled-38B2AC)](https://tailwindcss.com/)
