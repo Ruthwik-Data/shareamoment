@@ -1,6 +1,7 @@
 # 🥤 Share a Moment — Coca-Cola Inspired AI Chatbot
 
 > Open Happiness, One Chat at a Time
+> 🚀 Live Demo: https://shareamoment.vercel.app/
 
 ![Share a Moment Preview](./shareamoment.png)
 
